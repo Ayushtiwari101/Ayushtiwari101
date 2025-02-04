@@ -68,13 +68,16 @@
 
 
 # 📊 My GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushtiwari101&theme=dark&hide_border=false)<br/>
-<br/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<a href="https://github.com/Ayushtiwari101" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushtiwari101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&border_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" 
-  alt="Most Used Languages" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushtiwari101&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+
+  <a href="https://github.com/Ayushtiwari101">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushtiwari101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&border_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" 
+    alt="Most Used Languages" />
+  </a>
+
+</div>
 
 
 ---
