@@ -12,7 +12,7 @@
 <br/>
 
 
-# 🛠️ My Skill Set  
+<h2>🛠️ My Skill Set<h2/>  
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td valign="top" style="width: 25%;">
@@ -71,7 +71,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushtiwari101&theme=dark&hide_border=false)<br/>
 <br/>
 
-<br>
 <a href="https://github.com/Ayushtiwari101" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushtiwari101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&border_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" 
   alt="Most Used Languages" />
