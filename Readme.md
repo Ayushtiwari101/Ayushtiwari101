@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Ayush Tiwari, a passionate Full-Stack Developer with hands-on experience in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Alongside web development, I’m expanding my expertise in cloud computing, focusing on designing secure and efficient cloud-based solutions. Constantly exploring emerging technologies, I am committed to continuous learning and growth in full-stack development, cloud computing, and modern software architectures.<br><br>
+# Hi 👋, I'm Ayush Sunil Tiwari
+A passionate Full-Stack Developer with hands-on experience in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Alongside web development, I’m expanding my expertise in cloud computing, focusing on designing secure and efficient cloud-based solutions. Constantly exploring emerging technologies, I am committed to continuous learning and growth in full-stack development, cloud computing, and modern software architectures.<br><br>
 
 
 ## 🌐 Socials:
