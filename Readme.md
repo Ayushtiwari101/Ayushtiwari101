@@ -1,5 +1,7 @@
-# Hi 👋, I'm Ayush Sunil Tiwari
+<h1align="center"> Hi 👋, I'm Ayush Sunil Tiwari</h1> 
 A passionate Full-Stack Developer with hands-on experience in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Alongside web development, I’m expanding my expertise in cloud computing, focusing on designing secure and efficient cloud-based solutions. Constantly exploring emerging technologies, I am committed to continuous learning and growth in full-stack development, cloud computing, and modern software architectures.<br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati082001&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushtiwari101" /> </p>
 
 
 ## 🌐 Socials:
