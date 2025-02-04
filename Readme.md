@@ -83,7 +83,7 @@ A passionate Full-Stack Developer with hands-on experience in building scalable 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayushtiwari101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br><br>
+<br>
 <a href="https://github.com/Ayushtiwari101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushtiwari101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
