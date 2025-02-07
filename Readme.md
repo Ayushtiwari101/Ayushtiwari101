@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Ayush Sunil Tiwari</h1>
 
-<h3 align="center">A passionate Full-Stack Developer with hands-on experience in building scalable web applications using the MERN stack.<br> Alongside web development, I’m Constantly exploring emerging technologies, I am committed to continuous learning and growth in full-stack development.<h3/>
+<h3 align="center">A passionate Full-Stack Developer with hands-on experience in building scalable web applications using the MERN stack.<h3/><br>
   
 - 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
   
